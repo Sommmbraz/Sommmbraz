@@ -1,11 +1,16 @@
 ## Olá eu sou o Thomas Gomes, mas pode me chamar de Sommbraz
- Sou aluno de programação focado atualmente em python com foco em ML
+ Sou aluno de programação focado atualmente em python com foco em machine learn e javascript
 
 <div style="display: inline_block"><br>
   
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  
+   
+      
+          
             
 </div>
   
