@@ -1,4 +1,4 @@
-## Olá eu sou o Thomas Gomes, mas pode me chamar de Sommbraz
+## Olá eu sou o Thomas Gomes, mas pode me chamar de Airan
  Sou aluno de programação focado atualmente em python com foco em machine learn e javascript
 
 <div style="display: inline_block"><br>
