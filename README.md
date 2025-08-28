@@ -1,5 +1,5 @@
 ## Olá eu sou o Thomas Gomes, mas pode me chamar de Airan
- Desenvolvedor focado atualmente em python com foco em machine learn e javascript
+ Desenvolvedor focado atualmente em  JavaScript e Python com foco em machine learn.
 
 <div style="display: inline_block"><br>
   
