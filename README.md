@@ -1,5 +1,5 @@
 ## Hello! I'm Thomas Airan
-  Engenheiro de Software graduado, com interesse em Inteligência Artificial e Large Language Models (LLMs). Possuo conhecimentos em Python, SQL.Atualmente, aprofundo meus estudos em IA Generativa, automação, análise de dados
+  Engenheiro de Software graduado, com interesse em Inteligência Artificial e Large Language Models (LLMs). Possuo conhecimentos em Python, SQL. Atualmente, aprofundo meus estudos em IA Generativa, automação, análise de dados
 
 <div style="display: inline_block"><br>
   
