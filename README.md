@@ -1,12 +1,14 @@
 ## Olá eu sou o Thomas Gomes, mas pode me chamar de Airan
- Desenvolvedor focado atualmente em  JavaScript e Python com foco em machine learn.
+  Engenheiro de Software graduado, com interesse em Inteligência Artificial e Large Language Models (LLMs). Possuo conhecimentos em Python, SQL.Atualmente, aprofundo meus estudos em IA Generativa, automação, análise de dados
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg">
+ 
+  
+  
   
    
       
